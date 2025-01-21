@@ -4,7 +4,7 @@
     "react-dom": "^18.0.0",
     "react-scripts": "^4.0.0",
     "lucide-react": "latest",
-    "recharts": "2.9.0",
+    "recharts": "2.15.0",
     "react-router-dom": "latest",
     "@radix-ui/react-accordion": "^1.2.0",
     "@radix-ui/react-alert-dialog": "^1.1.1",
