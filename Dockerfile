@@ -1,3 +1,6 @@
+This is to test git pulling concept as a demonstration in class
+
+
 # Use an official Node.js runtime as a base image
 FROM node:18.20.5-bookworm-slim
 
